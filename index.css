@@ -1,0 +1,84 @@
+.recherche{
+    text-align: right;
+    font-family:sans-serif;
+}
+.titre {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 25px;
+    font-style: italic;
+    color:seagreen;
+    margin: bottom 100px;
+    
+}
+.alimentation {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    font-size: 20px;
+}
+.introduction {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+body{
+    margin-right: 200px;
+    margin-left: 200px;
+    background-image:url(pic1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.image2 {
+    width: 500px;
+    margin-right: 90px;
+    height: 300px;
+    width: 350px;
+}
+.image1 {
+    height: 300px;
+    margin-right: 200px;
+}
+.paragraphe1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.list1 {
+width: 45%;
+float: left;
+}
+.list2 {
+width: 45%; 
+
+float: right;
+}
+.list3{
+    display:inline-block;
+}
+.video1 {
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+
+}
+.paragraphe2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.video3 {
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+}
+.macros {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 30px;
+    color:mediumseagreen
+}
+.tableau {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    height: 30px;
+}
+.table {
+    height: 100px;
+}
